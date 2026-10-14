@@ -9,10 +9,9 @@ y por fin sale. Entreno martes miércoles y jueves, y los sábados hay
 partido. También llevo un año yendo al gimnasio, aunque
 ahí voy mucho más lento: no se ven los resultados tan rapido.
 
-Buscando en GitHub he encontrado,
-un programa libre para escribir tablaturas de guitarra.
+Buscando en GitHub he encontrado [gimnasio](https://github.com/pacohunterdev/sistema-gimnasio)
 
-![Mi balón de balonmano](capturas/balonmano.jpg)
+![Mi balón de futbol](https://th.bing.com/th/id/OIP.iZ2f6R8iWBnstzv-OHEWwQHaHa?w=198&h=199&c=7&r=0&o=7&pid=1.7&rm=3)
 
 ---
 
