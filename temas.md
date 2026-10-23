@@ -24,3 +24,5 @@ He elegido a Leo Messi ya que me gusta el deporte y su estilo de juego, además 
 Leo Messi es un futbolista argentino que ha ganado el Premio Princesa de Asturias de los Deportes 2026. Se lo han dado por todo lo que ha conseguido en el fútbol y por ser un ejemplo para muchas personas. He elegido a Messi porque me gusta el fútbol y me parece impresionante cómo juega. También admiro todo el esfuerzo que ha hecho para llegar a ser uno de los mejores futbolistas del mundo.
 
 En esta imagen se encuentra regateando Messi a otro jugador.
+
+![imagen](capturas/MESSI.jpg)
