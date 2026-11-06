@@ -26,3 +26,9 @@ Leo Messi es un futbolista argentino que ha ganado el Premio Princesa de Asturia
 En esta imagen se encuentra regateando Messi a otro jugador.
 
 ![imagen](capturas/MESSI.jpg)
+
+### 06/11 AdaLovelace
+Ada Lovelace (1815-1852) fue una matemática y escritora británica, considerada la primera programadora de la historia. Trabajó con Charles Babbage en el diseño de una máquina capaz de realizar cálculos automáticamente. Escribió el primer algoritmo destinado a ser procesado por una máquina, por lo que es una figura fundamental en la historia de la informática.
+
+[Ada Lovelace](https://es.wikipedia.org/wiki/Ada_Lovelace)
+
