@@ -34,5 +34,6 @@ Ada Lovelace (1815-1852) fue una matemática y escritora británica, considerada
 
 ![imagen](capturas/AdaLovelace.jpg){: width="300"}
 Imagen: Alfred Edward Chalon, [wikimedia commons](https://commons.wikimedia.org/wiki/Ada_Lovelace#/media/File:Ada_Lovelace_Chalon_portrait.jpg)
+![imagen](capturas/MESSI.jpg)
 
 
